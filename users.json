@@ -1,0 +1,16 @@
+[
+    {
+        "id": "699d5e4e854c9",
+        "name": "Raymond Bien M. Ibarbia",
+        "email": "ibarbiaraymond0@gmail.com",
+        "password": "$2y$10$74NVh4EYSexeTM27uCevDuNzNIgoINZty4JBhEXgw48.AVWwfIMRe",
+        "created_at": "2026-02-24 08:16:14"
+    },
+    {
+        "id": "699d5eb3e393f",
+        "name": "Bryan Avila",
+        "email": "bryanpaolo@gmail.com",
+        "password": "$2y$10$G6DutPKlbZpmSCCB81tqiOlC1SfBqc8PkTatwzsDnaviXDSJgPlia",
+        "created_at": "2026-02-24 08:17:55"
+    }
+]
